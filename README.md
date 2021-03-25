@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Abhishek9934/Abhishek9934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9934&layout=compact)
+
 -->
+
+### Hi there 👋, I'm Abhishek!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek9934&theme=dracula&show_icons=true&count_private=true)
+
+ 
