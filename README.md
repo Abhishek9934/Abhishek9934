@@ -10,11 +10,8 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9934&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9934&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9934&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
