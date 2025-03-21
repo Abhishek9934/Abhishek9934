@@ -1,21 +1,34 @@
-<!--
-**Abhishek9934/Abhishek9934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Abhishek9934/Abhishek9934 -->
 
-Here are some ideas to get you started:
+# Hi there! 👋 I'm Abhishek  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Passionate about **software development**, **compilers**, and **AI/ML**.  
+🔧 Currently working on a **software development projects related to automation using LLM**.  
+🌱 Exploring **Full-Stack Development, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.  
 
--->
+---
 
-### Hi there 👋, I'm Abhishek!
+## 📊 GitHub Stats  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek9934&theme=dracula&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9934&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9934&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9934&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9934&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** C++, Python, JavaScript  
+- **Frameworks & Tools:** LLVM, React, Node.js, Docker, TensorFlow, LangChain, LangGraph
+- **Interests:** Compiler Design, Full-Stack Development, AI/ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)  
+
+---
+
+## 🌍 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-gupta-9b7381176/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Abhishek9934)  
+
+💬 Feel free to reach out for collaborations or discussions on compilers, full-stack development, or AI/ML!  
