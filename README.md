@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** C++, Python, JavaScript  
-- **Frameworks & Tools:** LLVM, React, Node.js, Docker, TensorFlow, LangChain, LangGraph
+- **Frameworks & Tools:** LLM, React, Node.js, Docker, TensorFlow, LangChain, LangGraph
 - **Interests:** Compiler Design, Full-Stack Development, AI/ML, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)  
 
 ---
